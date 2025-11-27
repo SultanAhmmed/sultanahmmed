@@ -1,4 +1,4 @@
-# 💫 About Me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=sultanahmmed&abbreviated=true)
+# 💫 About Me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?SultanAhmmed&color=green)
 Hello! I’m Sultan Ahmmed, a passionate web developer and curious researcher in machine learning who loves solving problems and exploring the endless possibilities of technology. I enjoy blending creativity with logic to build modern, efficient, and user-focused digital solutions.<br><br>I’m driven by a desire to learn, grow, and stay ahead in the ever-evolving tech world. From crafting responsive web experiences to diving deep into data-driven insights, I strive to create impactful solutions that combine innovation with real-world functionality.<br><br>Beyond development and research, I’m always excited to explore new technologies, experiment with fresh ideas, and turn challenges into opportunities. Let’s collaborate and transform concepts into meaningful digital experiences.
 
 
