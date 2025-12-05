@@ -1,6 +1,11 @@
 # 💫 About Me: 
-Hello! I’m Sultan Ahmmed, a passionate web developer and curious researcher in machine learning who loves solving problems and exploring the endless possibilities of technology. I enjoy blending creativity with logic to build modern, efficient, and user-focused digital solutions.<br><br>I’m driven by a desire to learn, grow, and stay ahead in the ever-evolving tech world. From crafting responsive web experiences to diving deep into data-driven insights, I strive to create impactful solutions that combine innovation with real-world functionality.<br><br>Beyond development and research, I’m always excited to explore new technologies, experiment with fresh ideas, and turn challenges into opportunities. Let’s collaborate and transform concepts into meaningful digital experiences.
+Hi! I’m Sultan Ahmmed, a Research Engineer working at the intersection of deep learning research and practical AI engineering. I specialise in Computer Vision, NLP, and Transformer-based models using PyTorch, with a strong focus on building scalable, end-to-end AI systems.
 
+My experience includes model training, designing robust evaluation pipelines, and deploying high-performance APIs with FastAPI and Docker. I’m driven by the challenge of turning complex research ideas into reliable, real-world applications.
+
+I’m particularly interested in computer vision, multimodal learning, model optimisation, and efficient AI deployment. As I continue to deepen my research and engineering expertise, I’m exploring advanced academic and professional opportunities where I can contribute to impactful, innovation-driven AI work.
+
+I’m always open to meaningful collaborations in AI research and engineering. Let’s connect and create something impactful together.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sultan-ahmmed) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sultanahmmed) 
